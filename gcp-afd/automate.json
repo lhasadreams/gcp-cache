@@ -1,0 +1,16 @@
+{
+    "reporter": {
+        "automate" : {
+            "stdout" : false,
+            "url" : "https://54.246.254.88/data-collector/v0/",
+            "token" : "m6E8BQ5iCWLMBFUpIPRlRhrqR6k=",
+            "insecure" : true,
+            "node_name" : "gcp-project",
+            "environment" : "prod-gcp",
+            "node_uuid" : "03f9ae16-bceb-4839-b7ad-c103b84ee30c"
+        },
+        "cli" : {
+            "stdout" : true
+        }
+    }
+}

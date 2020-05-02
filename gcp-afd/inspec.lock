@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec-gcp
+  resolved_source:
+    url: https://github.com/inspec/inspec-gcp/archive/master.tar.gz
+    sha256: a65f02fea9192dcbfde1ddc30172903fa558925421aa574c2b331979bf5eef54
+  version_constraints: []
