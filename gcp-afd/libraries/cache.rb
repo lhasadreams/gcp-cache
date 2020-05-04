@@ -2,7 +2,7 @@ require 'inspec/control_eval_context'
 require 'inspec/rule'
 
 gcp_project_id='simonfisher-183117'
-
+# require 'pry';binding.pry
 module ::Inspec
   class ContentCache
     class << self
